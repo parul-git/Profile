@@ -1,0 +1,115 @@
+body{
+    background-image: url(images/background_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #e59fa7;
+}
+.one{
+    margin: 1%;
+    height: 600px;
+}
+.one-one{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 40%;
+    height: 600px;
+}
+.one-two{
+    background-color:#ffeef9;
+    text-align: justify;
+    float: left;
+    width: 60%;
+    height: 600px;
+}
+.two{
+    margin: 1%;
+    height: 200px;
+}
+.two-one{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+.two-two{
+    background-color:#ffeef9;
+    text-align: justify;
+    float: left;
+    width: 70%;
+    height: 200px;
+}
+.three{
+    margin: 1%;
+    height: 200px;
+}
+.three-one{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+.three-two{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 70%;
+    height: 200px;
+}
+.four{
+    margin: 1%;
+    height: 200px;
+}
+.four-one{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+.four-two{
+    background-color:#ffeef9;
+    align-content: center;
+    float: left;
+    width: 70%;
+    height: 200px;
+}
+.one-one>img{
+    margin: 2%;
+    border: 7px groove #febac3;
+    align-content: center;
+    width: 250px;
+    height: 400px;
+}
+#heading{
+    font-size: 30px;
+    margin: 2%;
+    color: #d7b0bc;
+    align-content: center;
+
+}
+.one-two>p{
+    font-size: 20px;
+    margin-right: 2%;
+    align-content: center;
+}
+.one-one>p{
+    font-size: 20px;
+    margin: 2%;
+    align-content: center;
+}
+.two-two{
+    font-size: 20px;
+}
+.three-two>p{
+    margin: 10px;
+}
+footer{
+    background-color:#ffeef9;
+    margin: 1%;
+    text-align: center;
+}
